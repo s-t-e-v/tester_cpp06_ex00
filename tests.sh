@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Option handling
-opt=$1
-
 # ANSI codes for colors
 GREEN="\033[32m"
 RED="\033[31m"
