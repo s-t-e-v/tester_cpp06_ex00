@@ -1,0 +1,5 @@
+-inff
+char: impossible
+int: impossible
+float: -inff
+double: -inf
