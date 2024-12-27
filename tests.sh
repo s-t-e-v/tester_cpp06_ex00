@@ -84,4 +84,5 @@ else
 fi
 
 # Clean up
-rm -f actual_output
+rm -f $actual_output
+rm -f $expected_output
